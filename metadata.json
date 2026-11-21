@@ -1,0 +1,6 @@
+{
+  "name": "Bitruvian Mocap",
+  "description": "Cardboard cutout motion capture rig powered by the Bitruvian anatomical puppet engine and server-side Gemini Vision keypoint extraction.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
